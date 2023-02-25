@@ -1,0 +1,28 @@
+{
+  "name": "console-dot-cat",
+  "version": "1.0.0",
+  "description": "A simple console.log wrapper that adds a cat to the beginning of the message.",
+  "main": "console.cat.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmkarBhede/console-dot-cat"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "cat",
+    "wrapper"
+  ],
+  "author": "Omkar Bhede <omkarbhede@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmkarBhede/console-dot-cat/issues"
+  },
+  "homepage": "https://github.com/OmkarBhede/console-dot-cat#readme"
+}
