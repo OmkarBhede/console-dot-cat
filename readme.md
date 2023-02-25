@@ -18,11 +18,11 @@ Boring.
 
 Wow, what a drag that was! No wonder you've become disenchanted with web development.
 
-**NOW!** Here's what your life could be after `console.frog`
+**NOW!** Here's what your life could be after `console.cat`
 
 ```javascript
 // Here is happy you, logging some logs
-console.frog("Amazing!");
+console.cat("Amazing!");
 ```
 
 ```
